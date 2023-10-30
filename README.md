@@ -6,7 +6,7 @@ This is a simple Python script which deletes negative training data (i.e. traini
 
 
 ```bash
-negative-data-deleter.py yolo_data_directory
+python3 negative-data-deleter.py yolo_data_directory
 ```
 
 usage: negative-data-deleter.py [-h] directory
